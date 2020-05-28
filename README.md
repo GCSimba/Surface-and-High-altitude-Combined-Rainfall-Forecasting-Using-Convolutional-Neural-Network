@@ -10,7 +10,7 @@ Rainfall Forecasting, Machine Learning, Convolutional Neural Network
 
 ### Main Method:
 
-<img src="https://github.com/HHUsimba/Image-Storage/blob/master/ACRFModel.png" style="zoom: 40%;" />
+<img src="https://github.com/HHUsimba/Image-Storage/blob/master/ACRFModel.png" style="zoom: 30%;" />
 
 ### Compare Models:
 
