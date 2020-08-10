@@ -6,7 +6,7 @@ Rainfall forecasting can guide human production and life. However, the existing 
 
 ### Keywords:
 
-Rainfall Forecasting, Machine Learning, Convolutional Neural Network
+Rainfall Forecasting, Machine Learning, Convolutional Neural Network,  Temporal Convolutional Network
 
 ### Main Method:
 
